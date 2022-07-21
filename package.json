@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "discord.js": "^14.0.3",
     "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
     "node-fetch": "^3.2.9",
     "uberduck-api": "^1.2.2"
   }
